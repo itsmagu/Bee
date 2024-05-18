@@ -1,0 +1,13 @@
+
+/.minecraft/.fabric
+/.minecraft/config
+/.minecraft/logs
+/.minecraft/data
+/.minecraft/crash-reports
+/.minecraft/saves
+/.minecraft/screenshots
+.minecraft/usernamecache.json
+.minecraft/usercache.json
+.minecraft/servers.dat_old
+.minecraft/servers.dat
+/natives
